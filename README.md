@@ -7,7 +7,7 @@ Tip forming/cutting configs for various toolheads, extruders, and hotends, for u
 
 1. Create configuration format
 2. Update link.3dcoded.xyz to pull from this repo
-3. Searh on link.3dcoded.xyz for configs
+3. Search on link.3dcoded.xyz for configs
 4. Display and show installation instructions
 
 **Long-term plans:**
