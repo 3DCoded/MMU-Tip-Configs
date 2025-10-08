@@ -1,4 +1,5 @@
-# MMU-Tip-Configs
+# Happy Hare Tip Forming and Cutting Presets
+
 Tip forming/cutting configs for various toolheads, extruders, and hotends, for use with Happy Hare MMU software
 
 https://link.3dcoded.xyz/tipconfigs/
